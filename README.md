@@ -1,1 +1,1 @@
-# scripts
+# scripts for my  manjaro
